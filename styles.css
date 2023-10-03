@@ -1,17 +1,17 @@
 /*  your css code here. If applicable */
- .navbar {
+ .container {
             background-color: #D3D3D3;
             padding: 10px;
         }
 
         /* Styling for the list items */
-        .navbar ul {
+        .container ul {
             list-style: none;
             padding: 0;
             margin: 0;
         }
 
-        .navbar li {
+        .container li {
             display: inline;
             margin-right: 1rem;
         }
